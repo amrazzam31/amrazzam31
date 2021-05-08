@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn logo" width="35">](www.linkedin.com/in/amrazzam31)
+[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn logo" width="35">](https://www.linkedin.com/in/amrazzam31/)
 
 💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message:
 amrazzam31@gmail.com
