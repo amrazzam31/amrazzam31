@@ -3,14 +3,18 @@
 <h3 align="center">Mobile App Developer who uses Dart for designing, developing, integrating, and supporting Flutter applications for iOS apps, Android apps, web, desktop.</h3>
 
 ## 🔭 Experience and Technical skills:
+- Build Android and iOS applications and work on adding and enhancing features.
 - Experience with state management including Provider and GetX.
 - Experience working with remote data via REST APIs and JSON.
 - Experience working with local data such as Sqlite and Shared Preferences.
+- Experience with Localizations and multilingual.
 - Experience with third-party libraries and APIs.
 - Experience with Firebase different tools including auth, storage and databases.
+- Experience with Facebook, Google and phone auth APIs.
+- Familiarity with push notifications and cloud messaging.
 - Familiarity with Animations.
 - Familiarity with push notifications and cloud messaging.
-- Familiarity with Google maps API.
+- Familiarity with Google maps API and live tracking.
 - Familiarity with code versioning tools.
 
 <p align="left">
