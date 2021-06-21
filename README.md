@@ -13,7 +13,6 @@
 - Experience with Facebook, Google and phone auth APIs.
 - Familiarity with push notifications and cloud messaging.
 - Familiarity with Animations.
-- Familiarity with push notifications and cloud messaging.
 - Familiarity with Google maps API and live tracking.
 - Familiarity with code versioning tools.
 
