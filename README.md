@@ -4,7 +4,7 @@
 
 ## 🔭 Experience and Technical skills:
 - Build Android and iOS applications and work on adding and enhancing features.
-- Experience with state management including Provider and GetX.
+- Experience with state management including Bloc, Provider, and GetX.
 - Experience working with remote data via REST APIs and JSON.
 - Experience working with local data such as Sqlite and Shared Preferences.
 - Experience with Localizations and multilingual.
