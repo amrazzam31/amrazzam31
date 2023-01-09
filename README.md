@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Azzam</h1>
-<h2 align="center">Flutter Developer</h2>
+<h2 align="center">Flutter Mobile App Developer</h2>
 <h3 align="center">I am a Flutter Mobile App Developer with over 2 years of experience who has a track record of success creating apps that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect.</h3>
 
 ## 🔭 Experience and Technical skills:
@@ -8,6 +8,7 @@
 - Experience working with remote data via REST APIs and JSON.
 - Experience working with local data such as Sqlite and Shared Preferences.
 - Experience with Localizations and multilingual.
+- Experience with CI/CD Pipeline.
 - Experience with third-party libraries and APIs.
 - Experience with Firebase different tools including auth, storage and databases.
 - Experience with Facebook, Google and phone auth APIs.
